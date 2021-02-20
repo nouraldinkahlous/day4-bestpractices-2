@@ -8,7 +8,7 @@ def mathX(n):
 
  Returns
  -------
- integer
+ B : integer
  
  Examples
  --------
@@ -16,6 +16,6 @@ def mathX(n):
  20
     """
 
-    number=n*10+10
-    return number
+    B=n*10+10
+    return B
      
